@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="833a663f-004b-4e54-b6f8-f9391b1b547f" name="Changes" comment="Lesson_3 HW">
-      <change afterPath="$PROJECT_DIR$/src/lesson_3/HW/Printable/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/MainWords/MainWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/Person/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/Person/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/Person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/Person/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/User/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/ZooClub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/ZooClub/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/ZooClub/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/ZooClub/ZooClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_5/ArrayList_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_5/ArrayOf20_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_5/Task_3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_5/Task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_5/Task_3/Owner.java" afterDir="false" />
+    <list default="true" id="833a663f-004b-4e54-b6f8-f9391b1b547f" name="Changes" comment="Lesson_5 HW Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_3/HW/Printable/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_3/HW/Instrument/Drum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_3/HW/Instrument/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_3/HW/Instrument/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_3/HW/Printable/Magazine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_3/HW/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Printable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_3/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_3/HW/Instrument/Trumpet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,65 +57,65 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lesson_5.Task_3.Main">
+  <component name="RunManager" selected="Application.Core.lesson_5.Task_3.Main">
+    <configuration name="Core.lesson_3.HW.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Core.lesson_3.HW.Main" />
+      <module name="java-core_24_artyom_puhanovskyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Core.lesson_3.HW.Printable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Core.lesson_4.ZooClub.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Core.lesson_4.ZooClub.Main" />
+      <module name="java-core_24_artyom_puhanovskyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Core.lesson_4.ZooClub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Core.lesson_5.ArrayOf20_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Core.lesson_5.ArrayOf20_2.Main" />
+      <module name="java-core_24_artyom_puhanovskyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Core.lesson_5.ArrayOf20_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Core.lesson_5.Task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Core.lesson_5.Task_3.Main" />
+      <module name="java-core_24_artyom_puhanovskyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Core.lesson_5.Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_5.ArrayList_1.Main" />
+      <option name="MAIN_CLASS_NAME" value="Core.lesson_5.ArrayList_1.Main" />
       <module name="java-core_24_artyom_puhanovskyi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_5.ArrayList_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson_3.HW.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_3.HW.Main" />
-      <module name="java-core_24_artyom_puhanovskyi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_3.HW.Printable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson_4.ZooClub.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_4.ZooClub.Main" />
-      <module name="java-core_24_artyom_puhanovskyi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_4.ZooClub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson_5.ArrayOf20_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_5.ArrayOf20_2.Main" />
-      <module name="java-core_24_artyom_puhanovskyi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_5.ArrayOf20_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson_5.Task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_5.Task_3.Main" />
-      <module name="java-core_24_artyom_puhanovskyi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_5.Task_3.*" />
+          <option name="PATTERN" value="Core.lesson_5.ArrayList_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson_5.Task_3.Main" />
-        <item itemvalue="Application.lesson_5.ArrayOf20_2.Main" />
+        <item itemvalue="Application.Core.lesson_5.Task_3.Main" />
+        <item itemvalue="Application.Core.lesson_5.ArrayOf20_2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lesson_4.ZooClub.Main" />
-        <item itemvalue="Application.lesson_3.HW.Main" />
+        <item itemvalue="Application.Core.lesson_4.ZooClub.Main" />
+        <item itemvalue="Application.Core.lesson_3.HW.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +147,8 @@
       <workItem from="1726340471612" duration="40000" />
       <workItem from="1726896269454" duration="9027000" />
       <workItem from="1726990661382" duration="4325000" />
-      <workItem from="1727084919856" duration="2851000" />
+      <workItem from="1727084919856" duration="3568000" />
+      <workItem from="1727428315503" duration="868000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson_1 HW Commit">
       <option name="closed" value="true" />
@@ -199,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726992688881</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson_5 HW Done">
+      <option name="closed" value="true" />
+      <created>1727090639200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727090639200</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +192,7 @@
     <MESSAGE value="Lesson_1 HW Commit" />
     <MESSAGE value="Lesson_2 HW" />
     <MESSAGE value="Lesson_3 HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson_3 HW" />
+    <MESSAGE value="Lesson_5 HW Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_5 HW Done" />
   </component>
 </project>
