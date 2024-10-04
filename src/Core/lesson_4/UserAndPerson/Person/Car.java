@@ -1,4 +1,4 @@
-package Core.lesson_4.Person;
+package Core.lesson_4.UserAndPerson.Person;
 
 public class Car {
     private String model;

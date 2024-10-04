@@ -1,10 +1,10 @@
-package Core.lesson_4;
+package Core.lesson_4.UserAndPerson;
 
-import Core.lesson_4.Person.Car;
-import Core.lesson_4.Person.Gender;
-import Core.lesson_4.Person.Person;
-import Core.lesson_4.Person.Skill;
-import Core.lesson_4.User.User;
+import Core.lesson_4.UserAndPerson.Person.Car;
+import Core.lesson_4.UserAndPerson.Person.Gender;
+import Core.lesson_4.UserAndPerson.Person.Person;
+import Core.lesson_4.UserAndPerson.Person.Skill;
+import Core.lesson_4.UserAndPerson.User.User;
 
 import java.util.*;
 public class Main {

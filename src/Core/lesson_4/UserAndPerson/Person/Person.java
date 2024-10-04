@@ -1,4 +1,4 @@
-package Core.lesson_4.Person;
+package Core.lesson_4.UserAndPerson.Person;
 
 import java.util.List;
 

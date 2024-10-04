@@ -1,4 +1,4 @@
-package Core.lesson_4.User;
+package Core.lesson_4.UserAndPerson.User;
 
 import java.util.Objects;
 
